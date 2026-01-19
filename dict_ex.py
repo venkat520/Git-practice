@@ -26,5 +26,5 @@ for word in para.split():
     if word not in ed:
         ed[word]=1
     else:
-        ed[word]+=2
+        ed[word]+=3
 print(ed)
