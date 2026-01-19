@@ -1,1 +1,2 @@
-This is new python file
+this is the content to check for the merge conflicts
+
